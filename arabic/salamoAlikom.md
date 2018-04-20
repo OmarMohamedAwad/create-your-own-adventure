@@ -10,6 +10,8 @@
 
 [اريد ان احلم](dream/dream.md)
 
+[أريد الماء](I want the water)
+
 [ أريد أن آكل](http://www.otlob.com/ar)
 
 [وظيفة](Job/Job.md)
